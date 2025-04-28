@@ -37,3 +37,18 @@ pip install pyttsx3
 
 ```bash
 python face_recognition_app.py
+```
+
+## 🖥️ Kullanıcı Arayüzü Özellikleri
+- Yüz Tanıt (Resim Yükle): Kullanıcı, bir fotoğraf yükleyerek yüzünü sisteme tanıtır.
+- Kamerayı Başlat: Kamerayı açarak gerçek zamanlı yüz tanıma işlemi yapılır.
+- Yüz Tanı: Gerçek zamanlı videoda tanınan kişileri ekranda gösterir.
+- Çıkış: Uygulamayı kapatır.
+
+## 📁 Proje Yapısı
+Proje klasörü içinde şu dosyalar bulunur:
+- yuz-tanima.py — Ana Python dosyası
+- Elon.jpg — Örnek yüz fotoğrafı
+- yuz_tanima_video/ — Örnek proje videosu (Klasör)
+- README.md — Proje açıklamaları
+
